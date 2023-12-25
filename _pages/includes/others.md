@@ -7,14 +7,21 @@
 
 
 
-# 💬 Invited Talks
-- *2022.03*, DATE 2022
-
-# 💻 Internships
-- *2019.03 - 2020.03*, research intern, Duke Kunshan University, Kunshan
+# 💬 Advisory Reports
+- Junwen Zhu & Lingzhi Shao (2022). “Recommendations for Improving and Promoting Case Study Metrics in Higher Education Evaluation”. Accepted by Department of Social Sciences, Ministry of Education of China.
+- Junwen Zhu, Lingzhi Shao, Jiawen Xu, Ji Qi & Juan Zhao (2022). “World Experience and Chinese Patterns in Cultivating Excellent Talents”. Invited by East China Normal University.
 
 
+# 💻 Research Grants
+- The 2023 National Social Science Fund of China (NSSFC) Major Project (￥600,000). “Research on Theory, Path and Contribution Evaluation of Higher Education Serving Innovation-Driven Development in the New Era”. Co-Investigator, 2023-2025.
+- The 2023 Shanghai Municipal Education Commission, Research and Innovation Program Major Project (￥750,000). “Research on Big Data-based Service Contribution Evaluation of Universities”. Co-Investigator, 2023-2027.
+- The 2022 National Natural Science Foundation of China (NSFC) Special Project (￥400,000). “Research on the Working Situation and Support Policies of Foreign Fundamental Researchers in China”. Co-Investigator, 2022-2024.
+- The 2022 Ministry of Education of China, Laboratory of Philosophy and Social Sciences(￥100,000). “Research on the Case Study Metrics in Higher Education Evaluation”. Co-Investigator, 2022-2023. 
 
-#  📚 Academic Services
-- I have served as an Associate Editor of the Journal of Circuits, Systems, and Computers (SCI indexed) since 2023.07
-- I have served in the reviewer/TPC of TSC, TII, NIPS, IoT J, TODAES，JSPE, TJSC, JCSC, WASA, ICA3PP, HPCC, ICANN, UIC and many other journals/conferences.
+
+
+#  📚 Conference and Invited Presentations
+- 2024: American Education Research Association Annual Meeting
+- 2023: The Third Annual Conference on Educational Evaluation, Chinese Society of Education Development Strategy
+- 2023: The 2023 Annual Conference on the Economics of Education, The Chinese Society of Education
+- 2022: The 2022 Annual Conference on Educational Administration, The Chinese Society of Education
