@@ -1,7 +1,11 @@
 
 # 📖 Educations
-- M.S and Ph.D (Computer Science and Technology) at East China Normal University, Shanghai, China(Sep, 2018 - Jun, 2023)
-- B.S (Computer Science and Technology) at East China Normal University, Shanghai, China(Sep, 2014 - Jul, 2018)
+- 2022-Present     Ph.D candidate, Faculty of Education, East China Normal University
+- 2019-2022       M.A., Faculty of Education, East China Normal University
+- 2015-2019       B.A., School of Business, Nanjing Normal University 
+
+
+
 
 # 💬 Invited Talks
 - *2022.03*, DATE 2022
