@@ -8,8 +8,8 @@
 
 
 # 💬 Advisory Reports
-- Junwen Zhu & Lingzhi Shao (2022). “Recommendations for Improving and Promoting Case Study Metrics in Higher Education Evaluation”. Accepted by Department of Social Sciences, Ministry of Education of China.
-- Junwen Zhu, Lingzhi Shao, Jiawen Xu, Ji Qi & Juan Zhao (2022). “World Experience and Chinese Patterns in Cultivating Excellent Talents”. Invited by East China Normal University.
+- Junwen Zhu and Lingzhi Shao (2022). “Recommendations for Improving and Promoting Case Study Metrics in Higher Education Evaluation”. Accepted by Department of Social Sciences, Ministry of Education of China.
+- Junwen Zhu, Lingzhi Shao, Jiawen Xu, Ji Qi and Juan Zhao (2022). “World Experience and Chinese Patterns in Cultivating Excellent Talents”. Invited by East China Normal University.
 
 
 # 💻 Research Grants
