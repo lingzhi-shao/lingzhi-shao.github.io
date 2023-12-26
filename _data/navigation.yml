@@ -7,16 +7,13 @@ main:
     url: "/#-publications"
 
   - title: "Master’s Thesis"
-    url: "/#-Master’s Thesis"
 
   - title: "Educations"
-    url: "/#-educations"
 
   - title: "Advisory Reportss"
-    url: "/#-Advisory Reports"
 
   - title: "Research Grants"
-    url: "/#-Research Grants"
 
   - title: "Conference and Invited Presentations"
-    url: "/#-Conference and Invited Presentations"
+
+  - title: "Honors and Awards"
