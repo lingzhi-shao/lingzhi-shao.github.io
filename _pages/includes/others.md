@@ -27,3 +27,12 @@
 - 2023: The Third Annual Conference on Educational Evaluation, Chinese Society of Education Development Strategy
 - 2023: The 2023 Annual Conference on the Economics of Education, The Chinese Society of Education
 - 2022: The 2022 Annual Conference on Educational Administration, The Chinese Society of Education
+
+
+# 🎖 Honors and Awards
+- 2021.09  China National Scholarship
+- 2018.09  China National Scholarship
+- 2022.06  Outstanding Graduate of Universities in Shanghai
+- 2021.12  Outstanding Student of East China Normal University
+- 2019.06  Outstanding Graduate of Nanjing Normal University
+- 2017. 11  Third Prize of Jiangsu Graduate Business Management Case Competition 
