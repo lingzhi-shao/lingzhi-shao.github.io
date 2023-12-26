@@ -1,11 +1,7 @@
 # 🎖 Honors and Awards
-- 国家级：本科生国家奖学金；
-- 国家级：硕士研究生国家奖学金；
-- 省市级：江苏省MBA案例大赛三等奖；
-- 省市级：上海市女大学生创新创业大赛一等奖；
-- 省市级：上海市优秀毕业生；
-- 校级：  华东师范大学优秀学生；
-- 校级：  南京师范大学优秀本科毕业生；
-- 校级： 南京师范大学优秀学生；
-- 校级： 冯茹尔奖学金一等奖；
-- 校级： 朱敬文奖学金；
+- 2021.09  China National Scholarship
+- 2018.09  China National Scholarship
+- 2022.06  Outstanding Graduate of Universities in Shanghai
+- 2021.12  Outstanding Student of East China Normal University
+- 2019.06  Outstanding Graduate of Nanjing Normal University
+- 2017. 11  Third Prize of Jiangsu Graduate Business Management Case Competition 
